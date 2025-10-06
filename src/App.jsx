@@ -1,10 +1,13 @@
-import React from 'react'
+import React from 'react';
+import './index.css';
 
 const App = () => {
   return (
-    <div>App
-      
-    </div>
+    <main>
+      <h1 className="text-5xl">
+        Hello world!
+      </h1>
+    </main>
   )
 }
 
