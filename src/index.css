@@ -7,7 +7,7 @@
 @layer base {
     @font-face {
         font-family: 'circular-web';
-        src: url('/fonts/circularweb-book.woff2') format('woff2);
+        src: url('/fonts/circularweb-book.woff2') format('woff2');
     }
 
     @font-face {
